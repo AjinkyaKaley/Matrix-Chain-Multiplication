@@ -9,7 +9,7 @@ Output specification: the output contains one line with an optimal parenthesizin
 This program taks the input from std input
 To run this program execute the following command
 
-Javac MatrixChainParenthesize.java
+javac MatrixChainParenthesize.java
 java MatrixChainParenthesize
 
 
