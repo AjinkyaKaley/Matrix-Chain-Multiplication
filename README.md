@@ -10,6 +10,7 @@ This program taks the input from std input
 To run this program execute the following command
 
 javac MatrixChainParenthesize.java
+
 java MatrixChainParenthesize
 
 
